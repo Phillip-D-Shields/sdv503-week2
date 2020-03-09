@@ -31,3 +31,11 @@ console.log(z--);
 console.log(z--);
 console.log(z);
 
+// string concat
+let a = "Phillip";
+let b = "David";
+let c = "Shields";
+
+console.log("My name is " + a + " " + b + " " + c + ".");
+console.log(`${a} ${b} ${c}`);
+
