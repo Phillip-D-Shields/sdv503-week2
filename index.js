@@ -42,7 +42,7 @@ console.log(`My name is ${a} ${b} ${c}`);
 console.log(10 + "5");
 console.log("25" - 20);
 
-// equality check without type conversion
+// equality check with and without type conversion
 console.log(1 == "1");
 console.log(1 === "1");
 console.log(1 == true);
